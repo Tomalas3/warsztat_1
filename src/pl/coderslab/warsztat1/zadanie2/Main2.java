@@ -75,7 +75,6 @@ public class Main2 {
         }
     }
 
-
     static int[] numbersRandom(int numberRand, int rangeDown, int rangeUp, boolean repeat) {
         Random rand = new Random();
         int[] table = new int[numberRand];
